@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quality,Unit_Price,Discount,Payment_Method,Salesperson
+1,2023-01-01,Alice,New York,Laptop,Electronics,5,1200,10,Credit Card,John
+2,2023-01-02,Bob,Los Angeles,Smartphone,Electronics,4,800,5,PayPal,Sarah
+3,2023-01-03,Charlie,Chicago,Tablet,Electronics,5,600,15,Credit Card,Mike
+4,2023-01-04,Jon,Houston,Headphones,Electronics,4,150,0,Cash,Emma
+5,2023-01-05,Eva,Phoenix,Smartwatch,Electronics,3,350,10,Debit Card,John
+6,2023-01-06,Frank,Philadelphia,Camera,Electronics,5,500,20,Credit Card,Sarah
+7,2023-01-07,Grace,San Antonio,Printer,Electronics,4,200,5,PayPal,Mike
+8,2023-01-08,Hannah,San Diego,Monitor,Electronics,5,400,10,Credit Card,Emma
+9,2023-01-09,Ian,Dallas,Keyboard,Electronics,3,100,0,Cash,John
+10,2023-01-10,Jack,San Jose,Mouse,Electronics,4,50,5,Debit Card,Sarah
+11,2023-01-11,Kathy,Austin,Speaker,Electronics,5,180,15,Credit Card,Mike
+12,2023-01-12,Liam,Jacksonville,Router,Electronics,4,120,10,PayPal,Emma
+13,2023-01-13,Mia,Fort Worth,External Hard Drive,Electronics,5,250,20,Credit Card,John
+14,2023-01-14,Noah,Columbus,Webcam,Electronics,3,80,5,Cash,Sarah
+15,2023-01-15,Olivia,Charlotte,Microphone,Electronics,4,90,0,Debit Card,Mike
+16,2023-01-16,Paul,San Francisco,Projector,Electronics,5,700,10,Credit Card,Emma
+17,2023-01-17,Quinn,Indianapolis,Drone,Electronics,4,450,15,PayPal,John
+18,2023-01-18,Rachel,Seattle,VR Headset,Electronics,5,550,5,Credit Card,Sarah
+19,2023-01-19,Sam,Denver,Fitness Tracker,Electronics,3,300,10,Cash,Mike
+20,2023-01-20,Tina,Washington,E-Reader,Electronics,4,200,0,Debit Card,Emma

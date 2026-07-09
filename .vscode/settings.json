@@ -1,0 +1,10 @@
+{
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.showStatusBar": true,
+    "editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python-envs.defaultPackageManager": "ms-python.python:pip"
+}
