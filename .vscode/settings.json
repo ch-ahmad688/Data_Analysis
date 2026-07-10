@@ -1,10 +1,15 @@
 {
+    "editor.cursorSmoothCaretAnimation": "on",
     "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.inlineSuggest.minShowDelay": 1,
+    "editor.inlineSuggest.showToolbar": "onHover",
     "editor.inlineSuggest.suppressSuggestions": true,
     "editor.suggest.localityBonus": true,
     "editor.suggest.preview": true,
+    "editor.suggest.shareSuggestSelections": true,
     "editor.suggest.showStatusBar": true,
-    "editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
-    "python-envs.defaultEnvManager": "ms-python.python:venv",
-    "python-envs.defaultPackageManager": "ms-python.python:pip"
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "editor.inlineSuggest.triggerCommandOnProviderChange": true,
+    "python.analysis.autoImportCompletions": false,
+    "chat.disableAIFeatures": false
 }
